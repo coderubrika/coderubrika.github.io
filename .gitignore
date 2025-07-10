@@ -26,6 +26,7 @@ coverage/
 .env*.local
 
 .cache/
+.parcel-cache/
 
 package-lock.json
 yarn.lock
